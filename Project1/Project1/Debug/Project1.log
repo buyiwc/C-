@@ -1,0 +1,12 @@
+﻿  源.cpp
+c:\users\lenovo\source\repos\project1\project1\源.cpp(15): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\lenovo\source\repos\project1\project1\源.cpp(15): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\lenovo\source\repos\project1\project1\源.cpp(15): note: 缺失的可变参数 2 为格式字符串“%s”所需
+  c:\users\lenovo\source\repos\project1\project1\源.cpp(15): note: 此参数用作缓冲区大小
+c:\users\lenovo\source\repos\project1\project1\源.cpp(164): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\lenovo\source\repos\project1\project1\源.cpp(171): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\lenovo\source\repos\project1\project1\源.cpp(176): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\lenovo\source\repos\project1\project1\源.cpp(182): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\lenovo\source\repos\project1\project1\源.cpp(187): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\lenovo\source\repos\project1\project1\源.cpp(11): warning C4101: “k”: 未引用的局部变量
+  Project1.vcxproj -> C:\Users\lenovo\source\repos\Project1\Debug\Project1.exe
